@@ -85,14 +85,25 @@ function doIt() {
         if (err) {
           return console.log(err);
         }
-        data = data.split(", ");
+        dataArr = data.split(",");
+            command = dataArr[0] 
+            criteria = dataArr[1];
         
-        // criteria = data;
-        console.log(data);
-        command = data[0];
-        criteria = data[1];
-        console.log(command);
-        console.log(criteria)
+            if (command === "concert-this") {
+                findBand();
+            } 
+            else if (command === "spotify-this-song") {
+                if (!criteria) {
+                    criteria = "Crazy";
+                    findSong();
+                } else {
+                findSong();
+                }
+            }
+             else if (command === "movie-this") {
+                findMovie();
+            } 
+        
     });
 };
 
