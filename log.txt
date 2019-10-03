@@ -1,0 +1,153 @@
+Artist(s): undefined
+
+Song Title: undefined
+
+Preview Link: undefined
+
+Album: undefined***************Artist(s): undefined
+
+Song Title: La vie en rose - Single Version
+
+Preview Link: null
+
+Album: [object Object]***************Artist(s): undefined
+
+Song Title: Try Me
+
+Preview Link: null
+
+Album: [object Object]***************Artist(s): undefined
+
+Song Title: Try Me
+
+Preview Link: null
+
+Album: My Dear Melancholy,***************Artist(s): undefined
+
+Song Title: Try Me
+
+Preview Link: null
+
+Album: My Dear Melancholy,***************Artist(s): undefined
+
+Song Title: Try Me
+
+Preview Link: null
+
+Album: My Dear Melancholy,***************Artist(s): The Weeknd
+
+Song Title: Try Me
+
+Preview Link: null
+
+Album: My Dear Melancholy,***************[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]***************Venue: Showbox SoDo
+
+Venue Location:Seattle, United States
+
+Date: 2019-10-03T19:00:00***************Artist(s): Thomas Rhett
+
+Song Title: Die A Happy Man
+
+Preview Link: null
+
+Album: Tangled Up***************Artist(s): Luke Combs
+
+Song Title: Beautiful Crazy
+
+Preview Link: https://p.scdn.co/mp3-preview/46f30246879a353edb15e19f91eb63376053cace?cid=af45adb4a87e4cb6abdc13abe7709a0d
+
+Album: This One's for You Too (Deluxe Edition)***************Title: Bohemian Rhapsody
+
+Year: 2018
+
+IMDB Rating: 8.0
+
+Country: UK, USA
+
+Language: English
+
+Plot: The story of the legendary British rock band Queen and lead singer Freddie Mercury, leading up to their famous performance at Live Aid (1985).
+
+Actors: Rami Malek, Lucy Boynton, Gwilym Lee, Ben Hardy***************Title: undefined
+
+Year: undefined
+
+IMDB Rating: undefined
+
+Country: undefined
+
+Language: undefined
+
+Plot: undefined
+
+Actors: undefined***************Title: undefined
+
+Year: undefined
+
+IMDB Rating: undefined
+
+Country: undefined
+
+Language: undefined
+
+Plot: undefined
+
+Actors: undefined***************Title: undefined
+
+Year: undefined
+
+IMDB Rating: undefined
+
+Country: undefined
+
+Language: undefined
+
+Plot: undefined
+
+Actors: undefined***************Title: Bohemian Rhapsody
+
+Year: 2018
+
+IMDB Rating: 8.0
+
+Country: UK, USA
+
+Language: English
+
+Plot: The story of the legendary British rock band Queen and lead singer Freddie Mercury, leading up to their famous performance at Live Aid (1985).
+
+Actors: Rami Malek, Lucy Boynton, Gwilym Lee, Ben Hardy***************Title: Bohemian Rhapsody
+
+Year: 2018
+
+IMDB Rating: 8.0
+
+Country: UK, USA
+
+Language: English
+
+Plot: The story of the legendary British rock band Queen and lead singer Freddie Mercury, leading up to their famous performance at Live Aid (1985).
+
+Actors: Rami Malek, Lucy Boynton, Gwilym Lee, Ben Hardy***************Title: Bohemian Rhapsody
+
+Year: 2018
+
+IMDB Rating: 8.0
+
+Country: UK, USA
+
+Language: English
+
+Plot: The story of the legendary British rock band Queen and lead singer Freddie Mercury, leading up to their famous performance at Live Aid (1985).
+
+Actors: Rami Malek, Lucy Boynton, Gwilym Lee, Ben Hardy***************Artist(s): Luke Combs
+
+Song Title: Beautiful Crazy
+
+Preview Link: https://p.scdn.co/mp3-preview/46f30246879a353edb15e19f91eb63376053cace?cid=af45adb4a87e4cb6abdc13abe7709a0d
+
+Album: This One's for You Too (Deluxe Edition)***************Venue: Showbox SoDo
+
+Venue Location:Seattle, United States
+
+Date: 2019-10-03T19:00:00***************
