@@ -7,7 +7,7 @@ var Spotify = require("node-spotify-api");
 var spotify = new Spotify(keys.spotify);
 
 
-var divider = "***************"
+var divider = "            ***************         "
 var command = process.argv[2];
 var criteria = process.argv.slice(3).join(" ");
 var bandURL = "https://rest.bandsintown.com/artists/" + criteria + "/events?app_id=codingbootcamp";
