@@ -1,14 +1,35 @@
-Artist(s): The Weeknd
+        Artist(s): Sia
 
-Song Title: Try Me
+Song Title: Cheap Thrills
 
-Preview Link: null
+Preview Link: https://p.scdn.co/mp3-preview/88816b2040a092aa99d5b0e42945d79dc5027c1a?cid=af45adb4a87e4cb6abdc13abe7709a0d
 
-Album: My Dear Melancholy,*************** 
-
-Venue: Showbox SoDo
+Album: This Is Acting (Deluxe Version)            ***************         Venue: Showbox SoDo
 
 Venue Location:Seattle, United States
 
-Date: 2019-10-03T19:00:00*************** 
+Date: 2019-10-03T19:00:00            ***************         Title: Jurassic Park
 
+Year: 1993
+
+IMDB Rating: 8.1
+
+Country: USA
+
+Language: English, Spanish
+
+Plot: A pragmatic Paleontologist visiting an almost complete theme park is tasked with protecting a couple of kids after a power failure causes the park's cloned dinosaurs to run loose.
+
+Actors: Sam Neill, Laura Dern, Jeff Goldblum, Richard Attenborough            ***************         Artist(s): Backstreet Boys
+
+Song Title: I Want It That Way
+
+Preview Link: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=af45adb4a87e4cb6abdc13abe7709a0d
+
+Album: The Hits--Chapter One            ***************         Artist(s): Backstreet Boys
+
+Song Title: I Want It That Way
+
+Preview Link: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=af45adb4a87e4cb6abdc13abe7709a0d
+
+Album: The Hits--Chapter One            ***************         
